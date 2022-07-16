@@ -22,10 +22,10 @@
 **我并不生产规则，我只是开源规则的搬运工。**
 
 Blackmatrix:
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
+https://github.com/blackmatrix7/ios_rule_script
 
 DivineEngine:
-https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
+https://github.com/DivineEngine/Profiles/tree/master
 
 Sukka:
 https://github.com/SukkaW/Surge
