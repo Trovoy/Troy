@@ -17,6 +17,19 @@
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。Troy 随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
 
+### Rule 分流规则
+
+**我并不生产规则，我只是开源规则的搬运工。**
+
+Blackmatrix:
+https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
+
+DivineEngine:
+https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
+
+Sukka:
+https://github.com/SukkaW/Surge
+
 ### tg频道 https://t.me/lalalalisa_e
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
