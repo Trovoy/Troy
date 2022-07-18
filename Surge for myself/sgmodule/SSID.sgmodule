@@ -2,4 +2,4 @@
 #!desc=LISA
 
 [SSID Setting]
-ROUTER:192.168.50.1 suspend=true
+ROUTER:192.168.50.118 suspend=true
