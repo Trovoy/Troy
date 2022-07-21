@@ -1,0 +1,10 @@
+#!name=Streaming
+#!desc=Troy
+
+[Script]
+# 流媒体
+Stream_all = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/JS/YTB-NF-D%2B.js,script-update-interval=86400
+
+[Panel]
+# 流媒体
+Stream_all = script-name=Stream_all,title=流媒体解锁检测,content=请刷新,update-interval=-1
