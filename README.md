@@ -40,7 +40,7 @@ https://github.com/SukkaW/Surge
 | ------------------------------ | ------------------------------------------------------------ |
 | Surge                          | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule |
 | Loon                           | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin |
-| Sub-Store 教程                 | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
+| Sub-Store 教程                  | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
 
 ### tg频道 https://t.me/lalalalisa_e
 ### 既然来了就点点关注和Star🌟叭～
