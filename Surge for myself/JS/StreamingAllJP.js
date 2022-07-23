@@ -309,7 +309,7 @@ async function testDisneyPlus() {
             reject('Error')
             return
           }
-          if (response.status !== 200 || data.indexOf('unavailable') !== -1) {
+          if (response.status !== 200 || data.indexOf('Sorry, Disney+ is not available in your region.') !== -1) {
             reject('Not Available')
             return
           }
