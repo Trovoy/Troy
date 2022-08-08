@@ -43,6 +43,11 @@ https://github.com/SukkaW/Surge
 | 流媒体平台字幕增强及双语模块 | https://github.com/DualSubs/DualSubs |
 | 薯条🤤嘿嘿嘿🤤我的薯条🤤 | https://github.com/VirgilClyne/VirgilClyne |
 
+## 🧰 BoxJs
+| 名称                           | 链接                                                         |
+| ------------------------------ | ------------------------------------------------------------ |
+| 介绍与安装教程                   | https://docs.boxjs.app                                        |
+
 ## Sub-Store
 
 | 名称                           | 链接                                                         |
@@ -50,12 +55,6 @@ https://github.com/SukkaW/Surge
 | Surge                          | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule |
 | Loon                           | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin |
 | Sub-Store 教程                  | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
-
-## BoxJs
-| 名称                           | 链接                                                         |
-| ------------------------------ | ------------------------------------------------------------ |
-| 介绍与安装教程                   | https://docs.boxjs.app                                        |
-
 
 ### tg频道 https://t.me/nananimonai
 ### 既然来了就点点关注和Star🌟叭～
