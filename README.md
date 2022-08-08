@@ -27,11 +27,11 @@
 
 **我并不生产规则，我只是开源规则的搬运工**
 
-Blackmatrix:[地址](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)
+Blackmatrix:https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
-DivineEngine:[地址](https://github.com/DivineEngine/Profiles/tree/master)
+DivineEngine:https://github.com/DivineEngine/Profiles/tree/master
 
-Sukka:[地址](https://github.com/SukkaW/Surge)
+Sukka:https://github.com/SukkaW/Surge
 
 ### 整点薯条项目列表
 
