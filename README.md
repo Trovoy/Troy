@@ -8,7 +8,7 @@
 * [整点薯条](#-整点薯条项目列表)
 * [BoxJs](#-BoxJs)
 * [Sub-Store](#sub-store)
-* [结尾](#谢谢参观)
+* [群组与频道](#谢谢参观)
 * [鸣谢](#鸣谢)
 # 特别声明
 - 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
@@ -58,8 +58,8 @@ Sukka:https://github.com/SukkaW/Surge
 
 ## 谢谢参观！！！
 
-### Telegram频道 [何もない](https://t.me/nananimonai)
 ### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
+### Telegram频道 [何もない](https://t.me/nananimonai)
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
 ---
