@@ -61,3 +61,15 @@ Sukka:https://github.com/SukkaW/Surge
 ### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
+---
+# 鸣谢
+* 排名不分先后
+* [@NobyDa](https://github.com/NobyDa)
+* [@Peng-YM](https://github.com/Peng-YM)
+* [@Loon0x00](https://github.com/Loon0x00)
+* [@Tartarus2014](https://github.com/Tartarus2014)
+* [@VirgilClyne](https://github.com/VirgilClyne)
+* [@futurkk](https://github.com/futurkk)
+* [@Rabbit-Spec](https://github.com/Rabbit-Spec)
+* [@blackmatrix7](https://github.com/blackmatrix7)
+* [@HoCooo](https://github.com/HoCooo)
