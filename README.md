@@ -36,7 +36,7 @@ https://github.com/DivineEngine/Profiles/tree/master
 Sukka:
 https://github.com/SukkaW/Surge
 
-### 🍟 整点薯条项目列表
+### 整点薯条项目列表
 
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
@@ -44,7 +44,7 @@ https://github.com/SukkaW/Surge
 | 流媒体平台字幕增强及双语模块 | https://github.com/DualSubs/DualSubs |
 | 薯条🤤嘿嘿嘿🤤我的薯条🤤 | https://github.com/VirgilClyne/VirgilClyne |
 
-## 🧰 BoxJs
+## BoxJs
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | https://docs.boxjs.app                                        |
