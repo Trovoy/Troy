@@ -25,7 +25,8 @@
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。Troy 随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
 
-## Surge教学：https://divineengine.net/more/special/surge
+## Surge教程
+DivineEngine：https://divineengine.net/more/special/surge
 
 ## Rule 分流规则
 
