@@ -39,7 +39,7 @@ https://github.com/SukkaW/Surge
 
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
-| 解锁完整的 Apple功能和集成服务| https://github.com/VirgilClyne/iRingo |
+| 解锁完整的  Apple功能和集成服务| https://github.com/VirgilClyne/iRingo |
 | 流媒体平台字幕增强及双语模块 | https://github.com/DualSubs/DualSubs |
 | 薯条🤤嘿嘿嘿🤤我的薯条🤤 | https://github.com/VirgilClyne/VirgilClyne |
 
