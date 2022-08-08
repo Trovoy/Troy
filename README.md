@@ -5,7 +5,7 @@
 ## 目录
 * [特别声明](#特别声明)
 * [规则](#Rule-分流规则)
-* [整点薯条](#整点薯条项目列表)
+* [整点薯条导航栏](#整点薯条项目列表)
 * [BoxJs](#BoxJs)
 * [Sub-Store](#sub-store)
 # 特别声明
@@ -36,7 +36,7 @@ https://github.com/DivineEngine/Profiles/tree/master
 Sukka:
 https://github.com/SukkaW/Surge
 
-### 整点薯条项目列表
+### 整点薯条项目列表 🍟
 
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
@@ -44,7 +44,7 @@ https://github.com/SukkaW/Surge
 | 流媒体平台字幕增强及双语模块 | https://github.com/DualSubs/DualSubs |
 | 薯条🤤嘿嘿嘿🤤我的薯条🤤 | https://github.com/VirgilClyne/VirgilClyne |
 
-## BoxJs
+## BoxJs 🧰
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | https://docs.boxjs.app                                        |
@@ -57,6 +57,6 @@ https://github.com/SukkaW/Surge
 | Loon| https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin|配置-插件-右上角➕号-复制左侧安装链接至URL并点击安装|
 | Sub-Store 官方教程| https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46|如还有不会请点击左侧教程进行翻阅|
 
-### tg频道 https://t.me/nananimonai
+### tg频道 [何もない](https://t.me/nananimonai)
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
