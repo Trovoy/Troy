@@ -24,7 +24,7 @@
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。Troy 随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
 
-### Rule 分流规则
+## Rule 分流规则
 
 **我并不生产规则，我只是开源规则的搬运工**
 
@@ -34,7 +34,7 @@ DivineEngine:https://github.com/DivineEngine/Profiles/tree/master
 
 Sukka:https://github.com/SukkaW/Surge
 
-### 整点薯条项目列表
+## 🍟 整点薯条项目列表
 
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
@@ -42,7 +42,7 @@ Sukka:https://github.com/SukkaW/Surge
 | 流媒体平台字幕增强及双语模块 |[项目地址](https://github.com/DualSubs/DualSubs) |
 | 薯条🤤嘿嘿嘿🤤我的薯条🤤 | [项目地址](https://github.com/VirgilClyne/VirgilClyne) |
 
-## BoxJs
+## 🧰 BoxJs
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
