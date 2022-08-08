@@ -53,7 +53,7 @@ Sukka:https://github.com/SukkaW/Surge
 | ------------------------------ | --------------------------------------------------|---------------|
 | Surge| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule)|首页-模块-安装新模块-复制左侧链接粘贴并点击好的|
 | Loon| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin)|配置-插件-右上角➕号-复制左侧安装链接至URL并点击安装|
-| Sub-Store 官方教程| [官方教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如还有不会请点击左侧教程进行翻阅|
+| Sub-Store 官方教程| [官方教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如有不懂请点击左侧官方教程进行翻阅|
 
 ## 谢谢参观！！！
 
