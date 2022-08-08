@@ -57,6 +57,6 @@ https://github.com/SukkaW/Surge
 | 介绍与安装教程                   | https://docs.boxjs.app                                        |
 
 
-### tg频道 https://t.me/lalalalisa_e
+### tg频道 https://t.me/nananimonai
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
