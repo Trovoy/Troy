@@ -27,27 +27,24 @@
 
 **我并不生产规则，我只是开源规则的搬运工**
 
-Blackmatrix:
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
+Blackmatrix:[地址](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)
 
-DivineEngine:
-https://github.com/DivineEngine/Profiles/tree/master
+DivineEngine:[地址](https://github.com/DivineEngine/Profiles/tree/master)
 
-Sukka:
-https://github.com/SukkaW/Surge
+Sukka:[地址](https://github.com/SukkaW/Surge)
 
 ### 整点薯条项目列表
 
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
-| 解锁完整的  Apple功能和集成服务| https://github.com/VirgilClyne/iRingo |
-| 流媒体平台字幕增强及双语模块 | https://github.com/DualSubs/DualSubs |
-| 薯条🤤嘿嘿嘿🤤我的薯条🤤 | https://github.com/VirgilClyne/VirgilClyne |
+| 解锁完整的  Apple功能和集成服务| [项目地址](https://github.com/VirgilClyne/iRingo) |
+| 流媒体平台字幕增强及双语模块 |[项目地址](https://github.com/DualSubs/DualSubs) |
+| 薯条🤤嘿嘿嘿🤤我的薯条🤤 | [项目地址](https://github.com/VirgilClyne/VirgilClyne) |
 
 ## BoxJs
 | 名称                           | 链接                                                         |
 | ------------------------------ | ------------------------------------------------------------ |
-| 介绍与安装教程                   | https://docs.boxjs.app                                        |
+| 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
 ## Sub-Store
 
@@ -55,7 +52,7 @@ https://github.com/SukkaW/Surge
 | ------------------------------ | --------------------------------------------------|---------------|
 | Surge| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule)|首页-模块-安装新模块-复制左侧链接粘贴并点击好的|
 | Loon| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin)|配置-插件-右上角➕号-复制左侧安装链接至URL并点击安装|
-| Sub-Store 官方教程| **[教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如还有不会请点击左侧教程进行翻阅|
+| Sub-Store 官方教程| [教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如还有不会请点击左侧教程进行翻阅|
 
 ### tg频道 [何もない](https://t.me/nananimonai)
 ### 既然来了就点点关注和Star🌟叭～
