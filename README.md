@@ -43,8 +43,9 @@ https://github.com/SukkaW/Surge
 | Sub-Store 教程                  | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
 
 ## BoxJs
-| 名称          | 链接                    |
-| 介绍与安装教程  | https://docs.boxjs.app |
+| 名称                           | 链接                                                         |
+| ------------------------------ | ------------------------------------------------------------ |
+| 介绍与安装教程                   | https://docs.boxjs.app                                        |
 
 
 ### tg频道 https://t.me/lalalalisa_e
