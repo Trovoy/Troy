@@ -1,4 +1,10 @@
-# Loon和Surge自用配置以及模块和脚本
+<h1 align="center">Surge自用配置以及模块和脚本</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon.JPEG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="300"></img>
+</p>
+
 ### 初版，如有错误或者建议欢迎提issues
 ### 本仓库之中所有配置/脚本纯属自用备份
 ### 请不要fork，自行同步
