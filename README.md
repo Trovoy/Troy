@@ -1,4 +1,4 @@
-<h1 align="center">Surge自用配置以及模块和脚本</h1>
+<h1 align="center">Loon与Surge自用配置以及模块和脚本</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon.JPEG" width="300"></img>
