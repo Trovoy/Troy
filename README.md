@@ -5,9 +5,6 @@
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="300"></img>
 </p>
 
-### 初版，如有错误或者建议欢迎提issues
-### 本仓库之中所有配置/脚本纯属自用备份
-### 请不要fork，自行同步
 ## 目录
 * [特别声明](#特别声明)
 * [规则](#Rule-分流规则)
