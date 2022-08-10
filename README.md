@@ -5,6 +5,14 @@
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="300"></img>
 </p>
 
+### Loon配置链接
+> **初版 :** https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf<br>
+
+### Surge配置链接
+> **IOS :** [复制这里哦！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+> **MAC :** [复制这里哦！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
+
+
 ## 目录
 * [特别声明](#特别声明)
 * [规则](#Rule-分流规则)
