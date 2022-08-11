@@ -19,7 +19,7 @@
 * [整点薯条](#-整点薯条项目列表)
 * [BoxJs](#-BoxJs)
 * [Sub-Store](#sub-store)
-* [群组与频道](#谢谢参观)
+* [群组与频道](#Telegram群组)
 * [鸣谢](#鸣谢)
 # 特别声明
 - 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
@@ -70,7 +70,7 @@ Sukka：https://github.com/SukkaW/Surge
 | Loon| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin)|配置-插件-右上角➕号-复制左侧安装链接至URL并点击安装|
 | Sub-Store 官方教程| [官方教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如有不懂请点击左侧官方教程进行翻阅|
 
-## 谢谢参观！！！
+## 本仓库只搬运各位大佬的脚本，在此基础上进行修改满足我的需求作为自用库使用，并不负责维护脚本
 
 ### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
 ### Telegram频道 [何もない](https://t.me/nananimonai)
