@@ -31,11 +31,11 @@
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。Troy 随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
 
 ### Loon配置链接
-> **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
+- 初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
 
 ### Surge配置链接
-> **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
-> **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
+- IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+- MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 
 ## Surge教程
 - DivineEngine：https://divineengine.net/more/special/surge
