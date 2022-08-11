@@ -5,22 +5,16 @@
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="300"></img>
 </p>
 
-### Loon配置链接
-> **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
-
-### Surge配置链接
-> **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
-> **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
-
-
 ## 目录
 * [特别声明](#特别声明)
+* [个人配置](#loon配置链接）
 * [规则](#Rule-分流规则)
 * [整点薯条](#-整点薯条项目列表)
 * [BoxJs](#-BoxJs)
 * [Sub-Store](#sub-store)
 * [群组与频道](#telegram群组-何も持っていないグループ)
 * [鸣谢](#特别感谢以下作者本人仓库均通过各位大佬整合而成)
+
 # 特别声明
 - 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
 
@@ -35,6 +29,13 @@
 - 您必须在下载后的24小时内从计算机或手机中完全删除以上内容。
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。Troy 随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
+
+### Loon配置链接
+> **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
+
+### Surge配置链接
+> **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+> **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 
 ## Surge教程
 DivineEngine：https://divineengine.net/more/special/surge
