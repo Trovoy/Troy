@@ -38,17 +38,17 @@
 > **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 
 ## Surge教程
-- DivineEngine：https://divineengine.net/more/special/surge
+> **DivineEngine：** https://divineengine.net/more/special/surge
 
 ## Rule 分流规则
 
 **我并不生产规则，我只是开源规则的搬运工**
 
-- Blackmatrix：https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
+> **Blackmatrix：** https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
-- DivineEngine：https://github.com/DivineEngine/Profiles/tree/master
+> **DivineEngine：** https://github.com/DivineEngine/Profiles/tree/master
 
-- Sukka：https://github.com/SukkaW/Surge
+> **Sukka：** https://github.com/SukkaW/Surge
 
 ## 🍟 整点薯条项目列表
 
