@@ -77,7 +77,7 @@ Sukka：https://github.com/SukkaW/Surge
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
 ---
-# 鸣谢
+# 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
 * 排名不分先后
   * [@NobyDa](https://github.com/NobyDa)
   * [@Peng-YM](https://github.com/Peng-YM)
@@ -89,3 +89,4 @@ Sukka：https://github.com/SukkaW/Surge
   * [@blackmatrix7](https://github.com/blackmatrix7)
   * [@HoCooo](https://github.com/HoCooo)
   * [@DivineEngine](https://github.com/DivineEngine)
+### (如有遗漏万分抱歉，请联系我加上！）
