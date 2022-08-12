@@ -79,7 +79,7 @@
 | Loon| [安装链接](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin)|配置-插件-右上角➕号-复制左侧安装链接至URL并点击安装|
 | Sub-Store 官方教程| [官方教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如有不懂请点击左侧官方教程进行翻阅|
 
-## 搬运自各位大佬，在此基础上进行修改作为自用，并不负责维护脚本
+### 搬运自各位大佬，在此基础上进行修改作为自用，并不负责维护脚本
 
 ### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
 ### Telegram频道 [何もない](https://t.me/nananimonai)
