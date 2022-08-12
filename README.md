@@ -71,7 +71,7 @@
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
-## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="30"></img> Sub-Store
+## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="35"></img> Sub-Store
 
 | 名称                           | 链接                                                         | 基础安装方式 |
 | ------------------------------ | --------------------------------------------------|---------------|
@@ -92,13 +92,9 @@
   * [@HoCooo](https://github.com/HoCooo)
   * [@DivineEngine](https://github.com/DivineEngine)
 ### (如有遗漏万分抱歉，请联系我加上！）
-## Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
-
-## Telegram频道 [何もない](https://t.me/nananimonai)
-
-## 既然来了就点点关注和Star🌟叭～
-
-## 爱你哦宝😘
-
-## 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
+### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
+### Telegram频道 [何もない](https://t.me/nananimonai)
+### 既然来了就点点关注和Star🌟叭～
+### 爱你哦宝😘
+### 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
 
