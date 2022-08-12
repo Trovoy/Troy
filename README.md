@@ -33,7 +33,7 @@
 ### Loon配置链接
 > **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/App%20logo.JPEG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON.JPEG" width="300"></img>
 </p>
 
 ## 欢迎在App图标内选用我制作的图标
