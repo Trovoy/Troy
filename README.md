@@ -37,7 +37,7 @@
 > **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
 > **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 
-## Surge教程
+## Surge教程地址
 > **DivineEngine：** https://divineengine.net/more/special/surge
 
 ## Rule 分流规则
