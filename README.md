@@ -27,8 +27,8 @@
 * [整点薯条](#-整点薯条项目列表)
 * [BoxJs](#-BoxJs)
 * [Sub-Store](#sub-store)
-* [群组与频道](#telegram群组-何も持っていないグループ)
 * [鸣谢](#特别感谢以下作者本人仓库均通过各位大佬整合而成)
+* [群组与频道](#telegram群组-何も持っていないグループ)
 
 
 ## Loon配置链接
@@ -71,7 +71,7 @@
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
-## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="33"></img> Sub-Store
+## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="30"></img> Sub-Store
 
 | 名称                           | 链接                                                         | 基础安装方式 |
 | ------------------------------ | --------------------------------------------------|---------------|
