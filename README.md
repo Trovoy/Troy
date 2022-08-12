@@ -71,7 +71,7 @@
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
-## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="35"></img> Sub-Store
+## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="33"></img> Sub-Store
 
 | 名称                           | 链接                                                         | 基础安装方式 |
 | ------------------------------ | --------------------------------------------------|---------------|
