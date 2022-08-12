@@ -81,12 +81,12 @@
 
 ## 搬运自各位大佬，在此基础上进行修改作为自用，并不负责维护脚本
 
-## Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
-## Telegram频道 [何もない](https://t.me/nananimonai)
-## 既然来了就点点关注和Star🌟叭～
-## 爱你哦宝😘
+### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
+### Telegram频道 [何もない](https://t.me/nananimonai)
+### 既然来了就点点关注和Star🌟叭～
+### 爱你哦宝😘
 ---
-## 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
+### 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
 * 排名不分先后
   * [@NobyDa](https://github.com/NobyDa)
   * [@Peng-YM](https://github.com/Peng-YM)
