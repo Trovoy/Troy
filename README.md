@@ -71,7 +71,7 @@
 | ------------------------------ | ------------------------------------------------------------ |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
-## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="40"></img> Sub-Store
+## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" align="middle" width="30"></img> Sub-Store
 
 | 名称                           | 链接                                                         | 基础安装方式 |
 | ------------------------------ | --------------------------------------------------|---------------|
@@ -80,11 +80,6 @@
 | Sub-Store 官方教程| [官方教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)|如有不懂请点击左侧官方教程进行翻阅|
 ---
 ### 搬运自各位大佬，在此基础上进行修改作为自用，并不负责维护脚本
-### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
-### Telegram频道 [何もない](https://t.me/nananimonai)
-### 既然来了就点点关注和Star🌟叭～
-### 爱你哦宝😘
-### 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
 * 排名不分先后
   * [@NobyDa](https://github.com/NobyDa)
   * [@Peng-YM](https://github.com/Peng-YM)
@@ -97,4 +92,13 @@
   * [@HoCooo](https://github.com/HoCooo)
   * [@DivineEngine](https://github.com/DivineEngine)
 ### (如有遗漏万分抱歉，请联系我加上！）
+## Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
+
+## Telegram频道 [何もない](https://t.me/nananimonai)
+
+## 既然来了就点点关注和Star🌟叭～
+
+## 爱你哦宝😘
+
+## 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
 
