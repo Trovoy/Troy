@@ -42,7 +42,7 @@
 > **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
 > **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="250"></img>
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Mac.png" width="700"></img>
 </p>
 
