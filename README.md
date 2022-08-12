@@ -35,6 +35,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/logo.PNG" width="300"></img>
 </p>
+## 欢迎在App图标内选用我制作的图标
 
 ### Surge配置链接
 > **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
