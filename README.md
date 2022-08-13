@@ -26,7 +26,7 @@
 * [📖 Surge教程](#surge教程地址)
 * [🍟 整点薯条](#-整点薯条项目列表)
 * [🧰 BoxJs](#-BoxJs)
-* [<img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="15"></img> Sub-Store](#-sub-store)
+* [<img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="20"></img> Sub-Store](#-sub-store)
 * [🌟 鸣谢](#特别感谢以下作者本人仓库均通过各位大佬整合而成)
 * [👥 群组与频道](#telegram群组-何も持っていないグループ)
 
