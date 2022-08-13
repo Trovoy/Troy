@@ -32,7 +32,7 @@
 
 
 ## Loon
-> **项目地址 :** [点击前往](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
+> **项目地址 :** [点击前往](https://github.com/Trovoy/Troy/tree/main/Loon%20for%20myself)<br>
 > **Loon规则集合 :** [点击前往](https://github.com/Code-Dramatist/Rule_Actions#loon%E8%A7%84%E5%88%99%E9%93%BE%E6%8E%A5)<br>
 
 
