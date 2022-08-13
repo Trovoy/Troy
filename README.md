@@ -1,6 +1,6 @@
-<h1 align="center">Loon与Surge自用配置以及模块和脚本</h1>
+<h1 align="center">Loon与Surge自用配置、规则及模块和脚本</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/logo.PNG" width="400"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/logo.PNG" width="300"></img>
 </p>
 
 ### 欢迎在App图标内选用我制作的图标
@@ -22,42 +22,30 @@
 
 
 ## 目录
-* [自用配置](#loon配置链接)
-* [规则](#Rule-分流规则)
-* [整点薯条](#-整点薯条项目列表)
-* [BoxJs](#-BoxJs)
-* [Sub-Store](#-sub-store)
-* [鸣谢](#特别感谢以下作者本人仓库均通过各位大佬整合而成)
-* [群组与频道](#telegram群组-何も持っていないグループ)
+* [🔗 自用配置和规则](#loon)
+* [📖 Surge教程](#surge教程地址)
+* [🍟 整点薯条](#-整点薯条项目列表)
+* [🧰 BoxJs](#-BoxJs)
+* [<img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="15"></img> Sub-Store](#-sub-store)
+* [🌟 鸣谢](#特别感谢以下作者本人仓库均通过各位大佬整合而成)
+* [👥 群组与频道](#telegram群组-何も持っていないグループ)
 
 
-## Loon配置链接
-> **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON2.JPEG" width="250"></img>
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON.JPEG" width="250"></img>
-</p>
+## Loon
+> **项目地址 :** [点击前往](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
+> **Loon规则集合 :** [点击前往](https://github.com/Code-Dramatist/Rule_Actions#loon%E8%A7%84%E5%88%99%E9%93%BE%E6%8E%A5)<br>
 
-## Surge配置链接
-> **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
-> **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="250"></img>
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Mac%202.png" width="667"></img>
-</p>
+
+## Surge
+> **自用规则整合 :** [点击前往](https://github.com/Trovoy/Troy-s-ruleset)<br>
+> **IOS :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+> **MAC :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
+
+
 
 ## Surge教程地址
-> **DivineEngine：** https://divineengine.net/more/special/surge
+> **DivineEngine：** [点击前往](https://divineengine.net/more/special/surge)
 
-## Rule 分流规则
-
-**我并不生产规则，我只是开源规则的搬运工**
-
-> **Blackmatrix：** https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
-
-> **DivineEngine：** https://github.com/DivineEngine/Profiles/tree/master
-
-> **Sukka：** https://github.com/SukkaW/Surge
 
 ## 🍟 整点薯条项目列表
 
@@ -71,7 +59,7 @@
 | :------------------------------: | :------------------------------------------------------------: |
 | 介绍与安装教程                   | [官方地址](https://docs.boxjs.app)                                       |
 
-## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="30"></img> Sub-Store
+## <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="23"></img> Sub-Store
 
 | 名称                           | 链接                                                         | 基础安装方式 |
 | :------------------------------: | :--------------------------------------------------: |:---------------:|
