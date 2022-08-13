@@ -34,15 +34,15 @@
 ## Loon配置链接
 > **初版 :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Loon%20for%20myself/Loon.conf)<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON2.JPEG" width="260"></img>
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON.JPEG" width="260"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON2.JPEG" width="250"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON.JPEG" width="250"></img>
 </p>
 
 ## Surge配置链接
 > **IOS :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
 > **MAC :** [复制这里哦！！！](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="260"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="250"></img>
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Mac%202.png" width="690"></img>
 </p>
 
