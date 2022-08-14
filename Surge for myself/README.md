@@ -1,5 +1,13 @@
-## 按照自用需求整合的规则（每日更新）
+> **IOS配置 :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+> **Mac配置 :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
 
+### 效果预览
+<p align="center">
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Mac%202.png" width="530"></img>
+</p>
+
+## 按照自用需求整合的规则（每日更新）
 | 名称                           | 介绍                                          |   维护状态     |
 |:-----------: |:-----------:|:-----------:|
 | [Reject](https://raw.githubusercontent.com/Trovoy/Troy-s-ruleset/main/Reject.conf) | 去广告  |  ✅  |
