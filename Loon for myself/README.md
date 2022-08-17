@@ -2,8 +2,6 @@
 
 ### 效果预览
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/LOON.JPEG" width="200"></img>
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon4.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon3.JPEG" width="200"></img>
 </p>
-
-### 注：此配置包含来自[@Code-Dramatist](https://github.com/Code-Dramatist/Rule_Actions)整合的规则
