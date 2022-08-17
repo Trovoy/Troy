@@ -2,6 +2,6 @@
 
 ### 效果预览
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon4.JPEG" width="200"></img>
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Loon1.JPEG" width="200"></img>
 </p>
