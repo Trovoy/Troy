@@ -2,7 +2,7 @@
 #!desc=Troy
 
 [Script]
-NET_INFO = type=generic, timeout=10, script-path=https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/JS/NET_INFO.js, argument=icon=network&color=#5685D6&group=🌍𝐏𝐫𝐨𝐱𝐲
+NET_INFO = type=generic, timeout=10, script-path=https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/JS/NET_INFO.js, argument=icon=network&color=#5685D6&group=Proxy
 
 [Panel]
 #网络综合信息
