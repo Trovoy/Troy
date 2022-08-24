@@ -1,8 +1,0 @@
-#!name=TG Bilibili
-#!desc=LISA
-
-[Rule]
-
-DOMAIN-SUFFIX,grpc.biliapi.net,REJECT-NO-DROP
-IP-ASN,140633,Asian Media,no-resolve
-OR,((IP-ASN,44097,no-resolve), (IP-ASN,59930,no-resolve), (IP-ASN,62014,no-resolve), (IP-ASN,62041,no-resolve), (IP-ASN,211157,no-resolve)),Proxy
