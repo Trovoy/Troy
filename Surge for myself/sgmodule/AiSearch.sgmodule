@@ -1,5 +1,5 @@
 #!name=AiSearch
-#!desc=by futurkk
+#!desc=Safari搜索
 
 [URL Rewrite]
 ^https:\/\/duckduckgo.com\/\?q=wk\+([^&]+).+ https://zh.m.wikipedia.org/wiki/$1 302
