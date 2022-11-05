@@ -3,7 +3,7 @@
 
 ### 效果预览
 <p align="center">
-<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Surge.JPEG" width="200"></img>
+<img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/SurgeBlack.JPEG" width="200"></img>
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/Mac%202.png" width="530"></img>
 </p>
 
