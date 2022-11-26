@@ -42,9 +42,9 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 
   ;(async () => {
     let panel_result = {
-      title: '',
+      title: '𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝘀𝗲𝗿𝘃𝗶𝗰𝗲',
       content: '',
-      icon: 'bed.double.fill',
+      icon: '',
     'icon-color': '#5685D6',
     }
   let [{ region, status }] = await Promise.all([testDisneyPlus()])
