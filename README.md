@@ -87,9 +87,5 @@
 
 ---
 
-### Telegram群组 [何も持っていないグループ！](https://t.me/nanimomonai)
-### Telegram频道 [何もない](https://t.me/nananimonai)
 ### 既然来了就点点关注和Star🌟叭～
 ### 爱你哦宝😘
-### 特别感谢以下作者（本人仓库均通过各位大佬整合而成）
-
