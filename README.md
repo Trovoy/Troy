@@ -39,10 +39,7 @@
 
 ## Surge
 > **自用规则整合 :** [点击前往](https://github.com/Trovoy/Troy-s-ruleset)<br>
-> **IOS :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
-> **MAC :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20Mac.conf)<br>
-
-
+> **自用配置 :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge.conf)<br>
 
 ## Surge教程地址
 > **@DivineEngine：** [点击前往](https://divineengine.net/more/special/surge)
