@@ -1,3 +1,19 @@
+/*
+
+脚本参考 @Helge_0x00 
+修改日期：2022.12.16
+Surge配置参考注释
+ 
+ ----------------------------------------
+ 
+[Panel]
+策略面板 = script-name=解锁检测,update-interval=7200
+
+[Script]
+解锁检测 = type=generic,timeout=30,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js,script-update-interval=0,argument=title=解锁检测&icon=headphones.circle&color=#FF2121
+
+----------------------------------------
+
 支持使用脚本使用 argument 参数自定义配置，如：argument=title=解锁检测&icon=headphones.circle&color=#FF2121，具体参数如下所示，
  * title: 面板标题
  * icon: SFSymbols 图标
@@ -33,7 +49,7 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
   hour = hour > 9 ? hour : "0" + hour;
   minutes = minutes > 9 ? minutes : "0" + minutes;
   let panel_result = {
-    title: `${args.title} | ${hour}:${minutes}` || `Streaming service | ${hour}:${minutes}`,
+    title: `${args.title} | ${hour}:${minutes}` || `流媒体解锁查询 | ${hour}:${minutes}`,
     content: '',
     icon: args.icon || "",
     "icon-color": args.color || "",
