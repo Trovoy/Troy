@@ -1,4 +1,4 @@
-> **配置 :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge%20for%20ios.conf)<br>
+> **配置 :** [长按复制/右键复制](https://raw.githubusercontent.com/Trovoy/Troy/main/Surge%20for%20myself/Surge.conf)<br>
 
 ### 效果预览
 <p align="center">
