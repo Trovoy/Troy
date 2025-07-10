@@ -1,4 +1,4 @@
-<h1 align="center">Loon与Surge自用配置、规则及模块和脚本</h1>
+<h1 align="center">Loon与Surge自用配置、规则及模块和脚本(暂停维护）</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Trovoy/Troy/main/Conf/logo.PNG" width="300"></img>
 </p>
