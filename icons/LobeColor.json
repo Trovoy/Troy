@@ -1,0 +1,46 @@
+{
+  "name": "Lobe AI Color Icons",
+  "description": "Color AI icons powered by Lobe Icons",
+  "icons": [
+    {
+      "name": "OpenAI",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
+    },
+    {
+      "name": "Claude",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
+    },
+    {
+      "name": "Grok",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok.svg"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/copilot-color.svg"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-color.svg"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mistral-color.svg"
+    },
+    {
+      "name": "Qwen",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg"
+    }
+  ]
+}
