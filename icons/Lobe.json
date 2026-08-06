@@ -1,0 +1,30 @@
+{
+  "name": "Lobe AI Icons",
+  "description": "AI icons powered by Lobe Icons",
+  "icons": [
+    {
+      "name": "OpenAI",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini.png"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/deepseek.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/perplexity.png"
+    }
+  ]
+}
